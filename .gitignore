@@ -1,0 +1,17 @@
+# data and everything derived from it (data use agreements, size)
+datasets/
+data/
+results/external_predictions.csv
+*.nii
+*.nii.gz
+*.npz
+*.pt
+*.joblib
+
+# environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

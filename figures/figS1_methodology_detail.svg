@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.4pt" height="327.6pt" viewBox="0 0 518.4 327.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T18:20:32.689002</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 327.6 
+L 518.4 327.6 
+L 518.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 12.96 160.56 
+L 164.16 160.56 
+Q 168.48 160.56 168.48 156.24 
+L 168.48 17.28 
+Q 168.48 12.96 164.16 12.96 
+L 12.96 12.96 
+Q 8.64 12.96 8.64 17.28 
+L 8.64 156.24 
+Q 8.64 160.56 12.96 160.56 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #dbe8f5; stroke: #2f5d8a; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 185.04 160.56 
+L 336.24 160.56 
+Q 340.56 160.56 340.56 156.24 
+L 340.56 17.28 
+Q 340.56 12.96 336.24 12.96 
+L 185.04 12.96 
+Q 180.72 12.96 180.72 17.28 
+L 180.72 156.24 
+Q 180.72 160.56 185.04 160.56 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #dcefe9; stroke: #2a7a66; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 357.12 160.56 
+L 508.32 160.56 
+Q 512.64 160.56 512.64 156.24 
+L 512.64 17.28 
+Q 512.64 12.96 508.32 12.96 
+L 357.12 12.96 
+Q 352.8 12.96 352.8 17.28 
+L 352.8 156.24 
+Q 352.8 160.56 357.12 160.56 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #e6f0d8; stroke: #4f7a28; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 357.12 321.84 
+L 508.32 321.84 
+Q 512.64 321.84 512.64 317.52 
+L 512.64 178.56 
+Q 512.64 174.24 508.32 174.24 
+L 357.12 174.24 
+Q 352.8 174.24 352.8 178.56 
+L 352.8 317.52 
+Q 352.8 321.84 357.12 321.84 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #f3e6f5; stroke: #7a3f86; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 185.04 321.84 
+L 336.24 321.84 
+Q 340.56 321.84 340.56 317.52 
+L 340.56 178.56 
+Q 340.56 174.24 336.24 174.24 
+L 185.04 174.24 
+Q 180.72 174.24 180.72 178.56 
+L 180.72 317.52 
+Q 180.72 321.84 185.04 321.84 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #fbe8d6; stroke: #b4621b; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 12.96 321.84 
+L 164.16 321.84 
+Q 168.48 321.84 168.48 317.52 
+L 168.48 178.56 
+Q 168.48 174.24 164.16 174.24 
+L 12.96 174.24 
+Q 8.64 174.24 8.64 178.56 
+L 8.64 317.52 
+Q 8.64 321.84 12.96 321.84 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #ececec; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 168.48 86.76 
+Q 174.6 86.76 179.601966 86.76 
+" clip-path="url(#pf98d3e51a8)" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 176.401966 85.16 
+L 179.601966 86.76 
+L 176.401966 88.36 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #555555; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 340.56 86.76 
+Q 346.68 86.76 351.681966 86.76 
+" clip-path="url(#pf98d3e51a8)" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 348.481966 85.16 
+L 351.681966 86.76 
+L 348.481966 88.36 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #555555; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 432.72 160.56 
+Q 432.72 167.4 432.72 173.121966 
+" clip-path="url(#pf98d3e51a8)" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 434.32 169.921966 
+L 432.72 173.121966 
+L 431.12 169.921966 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #555555; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 352.8 248.04 
+Q 346.68 248.04 341.678034 248.04 
+" clip-path="url(#pf98d3e51a8)" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 344.878034 249.64 
+L 341.678034 248.04 
+L 344.878034 246.44 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #555555; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 180.72 248.04 
+Q 174.6 248.04 169.598034 248.04 
+" clip-path="url(#pf98d3e51a8)" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 172.798034 249.64 
+L 169.598034 248.04 
+L 172.798034 246.44 
+z
+" clip-path="url(#pf98d3e51a8)" style="fill: #555555; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial'; text-anchor: middle; fill: #2f5d8a" x="88.56" y="23.241797" transform="rotate(-0 88.56 23.241797)">Data acquisition</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #2f5d8a" x="13.68" y="36.986572" transform="rotate(-0 13.68 36.986572)">Classification cohorts (rs-fMRI)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="46.710141" transform="rotate(-0 13.68 46.710141)">• COBRE, USA (n = 98)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="56.426572" transform="rotate(-0 13.68 56.426572)">• UCLA CNP, ds000030, USA (n = 180)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="66.146572" transform="rotate(-0 13.68 66.146572)">• SZ-Smoking, ds001461, China (n = 81)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="75.866572" transform="rotate(-0 13.68 75.866572)">• VSC SZ/BP, ds005073, USA (n = 30)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="85.590141" transform="rotate(-0 13.68 85.590141)">• SRPBS KTT / KUT / SWA / UTO, Japan</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="95.306572" transform="rotate(-0 13.68 95.306572)">   (n = 122 / 202 / 120 / 132)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="105.026572" transform="rotate(-0 13.68 105.026572)">  8 sites, n = 965 (318 psychosis,</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="114.746572" transform="rotate(-0 13.68 114.746572)">  647 no psychosis: HC, non-psychotic BP)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #2f5d8a" x="13.68" y="124.466572" transform="rotate(-0 13.68 124.466572)">Label-free pool</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="134.186572" transform="rotate(-0 13.68 134.186572)">• 770 runs never in the psychosis task</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #2f5d8a" x="13.68" y="143.906572" transform="rotate(-0 13.68 143.906572)">Independent external test</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="153.626572" transform="rotate(-0 13.68 153.626572)">• TCP, ds005237, 2 US sites (n = 241)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; text-anchor: start" x="7.2" y="10.705957" transform="rotate(-0 7.2 10.705957)">A</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial'; text-anchor: middle; fill: #2a7a66" x="260.64" y="23.241797" transform="rotate(-0 260.64 23.241797)">Image preprocessing (ANTs)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="36.986572" transform="rotate(-0 185.76 36.986572)">• Raw BIDS / per-volume archives</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="46.710141" transform="rotate(-0 185.76 46.710141)">   (COBRE: released NIAK-preprocessed)</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="56.426572" transform="rotate(-0 185.76 56.426572)">• Rigid motion correction (6 dof)</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="66.146572" transform="rotate(-0 185.76 66.146572)">• T1w → MNI152 2009a sym. (SyN)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="75.870141" transform="rotate(-0 185.76 75.870141)">• BOLD → T1w (affine, 12 dof);</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="85.590141" transform="rotate(-0 185.76 85.590141)">   no T1w: BOLD → template (SyN)</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="95.306572" transform="rotate(-0 185.76 95.306572)">• Single resampling to 3 mm MNI</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="105.026572" transform="rotate(-0 185.76 105.026572)">• Nuisance signals: 6 motion,</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="114.746572" transform="rotate(-0 185.76 114.746572)">   WM, CSF, global signal, FD</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="124.470141" transform="rotate(-0 185.76 124.470141)">• QC: registration overlay and</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="134.186572" transform="rotate(-0 185.76 134.186572)">   brain-mask Dice for every run</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; text-anchor: start" x="179.28" y="10.705957" transform="rotate(-0 179.28 10.705957)">B</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial'; text-anchor: middle; fill: #4f7a28" x="432.72" y="23.241797" transform="rotate(-0 432.72 23.241797)">Denoising and connectivity</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="36.986572" transform="rotate(-0 357.84 36.986572)">• Discard initial volumes (8–10 s)</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="46.706572" transform="rotate(-0 357.84 46.706572)">• Censor frames, FD &gt; 0.5 mm</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="56.426572" transform="rotate(-0 357.84 56.426572)">   (multiband: low-passed FD &gt; 0.3 mm)</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="66.146572" transform="rotate(-0 357.84 66.146572)">• Interpolate censored frames, detrend,</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="75.866572" transform="rotate(-0 357.84 75.866572)">   band-pass 0.01–0.1 Hz</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="85.586572" transform="rotate(-0 357.84 85.586572)">• Regress 6 motion + WM + CSF + GS</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="95.306572" transform="rotate(-0 357.84 95.306572)">• Resample to TR = 2 s</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="105.030141" transform="rotate(-0 357.84 105.030141)">• 114 ROIs: Schaefer-100 (7 networks)</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="114.750141" transform="rotate(-0 357.84 114.750141)">   + 14 Harvard–Oxford subcortical</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="124.466572" transform="rotate(-0 357.84 124.466572)">• Pearson correlation, clean frames</text>
+   </g>
+   <g id="text_40">
+    <!--    → $C\in\mathbb{R}^{114\times114}$ -->
+    <g style="fill: #1a1a1a" transform="translate(357.84 135.459)">
+     <text>
+      <tspan x="0" y="-0.182475" style="font-size: 6.3px; font-family: 'Arial'; fill: #1a1a1a"> </tspan>
+      <tspan x="1.749481" y="-0.182475" style="font-size: 6.3px; font-family: 'Arial'; fill: #1a1a1a"> </tspan>
+      <tspan x="3.498962" y="-0.182475" style="font-size: 6.3px; font-family: 'Arial'; fill: #1a1a1a"> </tspan>
+      <tspan x="5.248444" y="-0.182475" style="font-size: 6.3px; font-family: 'Arial'; fill: #1a1a1a">→</tspan>
+      <tspan x="11.545319" y="-0.182475" style="font-size: 6.3px; font-family: 'Arial'; fill: #1a1a1a"> </tspan>
+      <tspan x="13.2948" y="-0.182475" style="font-style: oblique; font-size: 6.3px; font-family: 'DejaVu Sans'; fill: #1a1a1a">C</tspan>
+      <tspan x="18.918329" y="-0.182475" style="font-size: 6.3px; font-family: 'DejaVu Sans'; fill: #1a1a1a">∈</tspan>
+      <tspan x="25.630283" y="-0.182475" style="font-style: italic; font-size: 6.3px; font-family: 'STIXGeneral'; fill: #1a1a1a">ℝ</tspan>
+      <tspan x="30.330577" y="-2.784375" style="font-size: 4.41px; font-family: 'DejaVu Sans'; fill: #1a1a1a">1</tspan>
+      <tspan x="33.134967" y="-2.784375" style="font-size: 4.41px; font-family: 'DejaVu Sans'; fill: #1a1a1a">1</tspan>
+      <tspan x="35.939357" y="-2.784375" style="font-size: 4.41px; font-family: 'DejaVu Sans'; fill: #1a1a1a">4</tspan>
+      <tspan x="39.602496" y="-2.784375" style="font-size: 4.41px; font-family: 'DejaVu Sans'; fill: #1a1a1a">×</tspan>
+      <tspan x="44.154511" y="-2.784375" style="font-size: 4.41px; font-family: 'DejaVu Sans'; fill: #1a1a1a">1</tspan>
+      <tspan x="46.958901" y="-2.784375" style="font-size: 4.41px; font-family: 'DejaVu Sans'; fill: #1a1a1a">1</tspan>
+      <tspan x="49.763291" y="-2.784375" style="font-size: 4.41px; font-family: 'DejaVu Sans'; fill: #1a1a1a">4</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="143.906572" transform="rotate(-0 357.84 143.906572)">• Inclusion: ≥ 120 s clean data,</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="153.630141" transform="rotate(-0 357.84 153.630141)">   ≥ 90 % of ROIs covered</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; text-anchor: start" x="351.36" y="10.705957" transform="rotate(-0 351.36 10.705957)">C</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial'; text-anchor: middle; fill: #7a3f86" x="432.72" y="184.521797" transform="rotate(-0 432.72 184.521797)">Partitioning and leakage control</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="198.266572" transform="rotate(-0 357.84 198.266572)">• Subject-level splits</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="207.986572" transform="rotate(-0 357.84 207.986572)">• Pooled 5-fold CV stratified by</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="217.706572" transform="rotate(-0 357.84 217.706572)">   site × diagnosis (train/val/test 3:1:1)</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="227.426572" transform="rotate(-0 357.84 227.426572)">• Leave-one-site-out (8 folds)</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="237.146572" transform="rotate(-0 357.84 237.146572)">• External site: never used for training,</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="246.866572" transform="rotate(-0 357.84 246.866572)">   pretraining or model selection</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="256.586572" transform="rotate(-0 357.84 256.586572)">• Fitted only on the training part:</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="266.306572" transform="rotate(-0 357.84 266.306572)">   SPD reference, scaling, weights</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="276.026572" transform="rotate(-0 357.84 276.026572)">• Validation part only: early stopping,</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="285.746572" transform="rotate(-0 357.84 285.746572)">   Platt scaling, decision threshold</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="357.84" y="295.466572" transform="rotate(-0 357.84 295.466572)">• Test part scored once</text>
+   </g>
+   <g id="text_56">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; text-anchor: start" x="351.36" y="171.985957" transform="rotate(-0 351.36 171.985957)">D</text>
+   </g>
+   <g id="text_57">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial'; text-anchor: middle; fill: #b4621b" x="260.64" y="184.521797" transform="rotate(-0 260.64 184.521797)">Model learning</text>
+   </g>
+   <g id="text_58">
+    <text style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #b4621b" x="185.76" y="198.266572" transform="rotate(-0 185.76 198.266572)">Self-supervised pretraining</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="207.990141" transform="rotate(-0 185.76 207.990141)">• Masked-ROI connectivity reconstruction</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="217.706572" transform="rotate(-0 185.76 217.706572)">   + age / sex (770 unlabelled runs)</text>
+   </g>
+   <g id="text_61">
+    <text style="font-weight: 700; font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #b4621b" x="185.76" y="227.426572" transform="rotate(-0 185.76 227.426572)">Supervised fine-tuning: PsychosisNET</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="237.146572" transform="rotate(-0 185.76 237.146572)">• Class-weighted cross-entropy, mixup,</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="246.866572" transform="rotate(-0 185.76 246.866572)">   label smoothing, aux. age / sex loss</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="256.586572" transform="rotate(-0 185.76 256.586572)">• AdamW (weight decay 0.05), one-cycle LR</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="266.306572" transform="rotate(-0 185.76 266.306572)">• Early stopping on validation AUC</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="276.026572" transform="rotate(-0 185.76 276.026572)">• 5-seed ensemble per fold</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="285.746572" transform="rotate(-0 185.76 285.746572)">• Platt calibration + threshold</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="185.76" y="295.466572" transform="rotate(-0 185.76 295.466572)">   (validation part)</text>
+   </g>
+   <g id="text_69">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; text-anchor: start" x="179.28" y="171.985957" transform="rotate(-0 179.28 171.985957)">E</text>
+   </g>
+   <g id="text_70">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial'; text-anchor: middle; fill: #4d4d4d" x="88.56" y="184.521797" transform="rotate(-0 88.56 184.521797)">Evaluation</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="198.266572" transform="rotate(-0 13.68 198.266572)">• Pooled 5-fold CV (mean ± SD)</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="207.986572" transform="rotate(-0 13.68 207.986572)">• Leave-one-site-out generalisation</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="217.706572" transform="rotate(-0 13.68 217.706572)">• External test on TCP: psychosis vs HC;</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="227.426572" transform="rotate(-0 13.68 227.426572)">   non-psychotic psychiatric patients</text>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="237.146572" transform="rotate(-0 13.68 237.146572)">   (specificity of the psychosis signal)</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="246.866572" transform="rotate(-0 13.68 246.866572)">• AUC, balanced accuracy,</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="256.586572" transform="rotate(-0 13.68 256.586572)">   sensitivity, specificity, 95 % CI</text>
+   </g>
+   <g id="text_78">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="266.306572" transform="rotate(-0 13.68 266.306572)">• Comparators: linear models on</text>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="276.026572" transform="rotate(-0 13.68 276.026572)">   tangent connectivity, multi-view</text>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 6.3px; font-family: 'Arial'; text-anchor: start; fill: #1a1a1a" x="13.68" y="285.746572" transform="rotate(-0 13.68 285.746572)">   stacking, ablations</text>
+   </g>
+   <g id="text_81">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; text-anchor: start" x="7.2" y="171.985957" transform="rotate(-0 7.2 171.985957)">F</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf98d3e51a8">
+   <rect x="0" y="0" width="518.4" height="327.6"/>
+  </clipPath>
+ </defs>
+</svg>

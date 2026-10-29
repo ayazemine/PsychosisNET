@@ -1,0 +1,61 @@
+# Paths are relative to the project root (the folder that contains configs/).
+paths:
+  cobre_raw: datasets/cobre          # flat NIAK release, already in MNI space
+  ds005073_raw: datasets/dataset1    # raw BIDS (OpenNeuro ds005073, Keane et al.)
+  ds000030_raw: datasets/ds000030    # raw BIDS (OpenNeuro ds000030, UCLA CNP), rest + T1w only
+  ds001461_raw: datasets/ds001461    # raw BIDS (OpenNeuro ds001461, Chongqing), rest only, no T1w
+  srpbs_raw: datasets/srpbs          # SRPBS multi-disorder (unrestricted), unpacked by scripts/unpack_srpbs.py
+  ds005237_raw: datasets/ds005237    # raw BIDS (OpenNeuro ds005237, Transdiagnostic Connectome Project), T1w + first AP rest run
+  data: data                         # everything the pipeline writes goes here
+
+# Common representation both datasets are brought to.
+target:
+  tr: 2.0                # seconds; ds005073 (TR 0.785) is resampled to this after filtering
+  mni_voxel_mm: 3.0      # grid raw datasets are resampled to (ICBM152 2009a symmetric, same space as COBRE)
+
+preprocess:              # raw datasets only; COBRE is already preprocessed
+  tasks:
+    ds005073: [rest]     # add "viscomp" to also process the 4 task runs per subject
+    ds000030: [rest]
+    ds001461: [rest]
+    srpbs: [rest]
+    ds005237: [rest]
+  t1_to_mni: "antsRegistrationSyNQuick[s]"
+  bold_to_mni: "antsRegistrationSyNQuick[s]"   # datasets without a T1w: BOLD reference straight to the template brain
+  bold_to_t1: BOLDAffine # 12 dof, absorbs part of the uncorrected susceptibility distortion
+  n_workers: 8           # subjects in parallel (8 x 3 = 24 of 64 threads: the machine is shared)
+  threads_per_worker: 3
+  # Multiband data: respiration inflates FD, so motion params are low-passed before FD is computed.
+  fd_lowpass_hz: {ds005073: 0.3, ds000030: null, ds001461: null, srpbs: null, ds005237: 0.3}
+  fd_radius_mm: 50.0
+
+denoise:
+  drop_first_seconds: {cobre: 0, ds005073: 8, ds000030: 0, ds001461: 8, srpbs: 10, ds005237: 8}
+  fd_threshold: {cobre: null, ds005073: 0.3, ds000030: 0.5, ds001461: 0.5, srpbs: 0.5, ds005237: 0.3}   # null = use the scrub column shipped with COBRE (FD > 0.5)
+  motion: 6              # 6, 12 (+derivatives) or 24 (+squares)
+  wm_csf: true
+  global_signal: false
+  band_hz: [0.01, 0.1]
+  min_clean_seconds: 120 # COBRE README: at least 60 clean frames (= 120 s)
+  min_roi_valid_frac: 0.9
+
+# schaefer<N>: cortical parcels (7 Yeo networks); trailing "s" adds 14 Harvard-Oxford subcortical structures.
+atlases: [schaefer100, schaefer200, schaefer100s, schaefer200s]
+# Extra denoising variants, written to data/features/<atlas>_<variant>.
+variants:
+  gsr: {global_signal: true}
+
+# SRPBS: only the sites that scanned schizophrenia patients are processed; the other sites have
+# no patients of interest and would only add site-specific healthy controls.
+srpbs:
+  sites: [KTT, KUT, SWA, UTO]
+  diagnoses: [HC, SZ, BP]
+  pretrain: true         # also process everyone else (quick path, no T1w) for label-free pretraining only
+
+# External test sites: never in the cross-validation, leave-site-out or pretraining sets; they get one
+# split of their own (external_<site>) in which a model trained on all other sites is tested once.
+external: [ds005237]
+
+splits:
+  n_folds: 5
+  seed: 42

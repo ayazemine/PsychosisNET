@@ -1,0 +1,11 @@
+| Site | Scanner | TR (s) | TE (ms) | Volumes | Duration (min) | Voxel (mm) | Image format |
+|---|---|---|---|---|---|---|---|
+| COBRE | Siemens TIM Trio 3T | 2 | — | 150 | 5.0 | — | NIAK-preprocessed (MNI) |
+| VSC SZ/BP | SIEMENS | 0.785 | 35 | 765 | 10.0 | 2.4 × 2.4 × 2.4 | raw |
+| UCLA CNP | Siemens Trio 3T | 2 | 30 | 152 | 5.1 | 3 × 3 × 4 | raw |
+| SZ-Smoking | GE Signa_HDxt 3T | 2 | 40 | 240 | 8.0 | 3.75 × 3.75 × 4 | raw |
+| SRPBS-SWA | Siemens Verio 3T | 2.5 | — | 240 | 10.0 | 3.31 × 3.31 × 4 | raw |
+| SRPBS-KUT | Siemens TimTrio 3T | 2.5 | — | 240 | 10.0 | 3.31 × 3.31 × 4 | raw |
+| SRPBS-KTT | Siemens Trio 3T | 2 | — | 177 | 5.9 | 4 × 4 × 4 | raw |
+| SRPBS-UTO | GE Discovery MR750w 3T | 2.5 | — | 240 | 10.0 | 3.31 × 3.31 × 4 | raw |
+| TCP (external) | Siemens Prisma 3T | 0.8 | 37 | 488 | 6.5 | 2 × 2 × 2 | raw |

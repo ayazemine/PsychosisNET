@@ -1,4 +1,4 @@
-# PsychosisNET: psychosis classification from resting-state fMRI connectivity
+# Explainable classification of psychosis from resting-state connectivity: cross-site and external evaluation
 
 Code for a multi-site study that classifies psychosis (schizophrenia / schizoaffective disorder and
 bipolar disorder with psychotic features) against participants without psychosis from resting-state
